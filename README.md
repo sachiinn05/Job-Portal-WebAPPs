@@ -12,7 +12,7 @@ A modern, feature-rich, and user-friendly job portal designed to connect job see
 - ✨ **Real-Time Updates**: Stay informed with instant notifications.
 
 ## 🌐 Live Demo
-🚧 Coming Soon! *(Replace with a live link if available)*
+🚧 https://job-portal-webapps.onrender.com
 
 ## 💻 Installation & Setup
 
