@@ -3,14 +3,14 @@ import nodemailer from "nodemailer";
 const transporter = nodemailer.createTransport({
   service: "Gmail",
   auth: {
-    user: "sachinsingh6386@gmail.com",
-    pass: "scsd cxze vgxu npdi",
+    user: "projectuserrr.05@gmail.com",
+    pass: "hnpg daep cfnd bphk",
   },
 });
 
 export const sendConfirmationEmail = (userEmail, companyName, designation) => {
   const mailOptions = {
-    from: "sachinsingh6386@gmail.com",
+    from: "projectuserrr.05@gmail.com",
     to: userEmail,
     subject: `Application Confirmation for ${designation} at ${companyName}`,
     html: `<h3>Dear Applicant,</h3>
